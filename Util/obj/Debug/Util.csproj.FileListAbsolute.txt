@@ -1,0 +1,11 @@
+C:\Users\Luiz Sena\source\repos\Lanchonete\Util\bin\Debug\Util.dll
+C:\Users\Luiz Sena\source\repos\Lanchonete\Util\bin\Debug\Util.pdb
+C:\Users\Luiz Sena\source\repos\Lanchonete\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\Lanchonete\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\Lanchonete\Util\obj\Debug\Util.dll
+C:\Users\Luiz Sena\source\repos\Lanchonete\Util\obj\Debug\Util.pdb
+C:\Users\Luiz Sena\source\repos\ProjWenMVCLanchonete\Util\bin\Debug\Util.dll
+C:\Users\Luiz Sena\source\repos\ProjWenMVCLanchonete\Util\bin\Debug\Util.pdb
+C:\Users\Luiz Sena\source\repos\ProjWenMVCLanchonete\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\ProjWenMVCLanchonete\Util\obj\Debug\Util.dll
+C:\Users\Luiz Sena\source\repos\ProjWenMVCLanchonete\Util\obj\Debug\Util.pdb
